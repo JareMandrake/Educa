@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: cursive;
+}
+
+header{
+    background-color: #03a678;
+	height: 60px;
+	color: #FFF;
+	text-align: left;
+}
+
+div#topo{
+    padding-top:15px;
+    padding-left: 20px;
+    font-size: 25px;
+}
+
